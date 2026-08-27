@@ -1,2 +1,3 @@
-# javascript-problem-solving
-JavaScript exercises and problems solved while learning
+# JavaScript Practice
+
+# A collection of JavaScript problems and exercises solved while learning, organized by topic. Each file includes my solution.
